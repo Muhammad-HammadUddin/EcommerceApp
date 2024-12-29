@@ -1,0 +1,11 @@
+/* styles.css */
+.link {
+   
+    text-decoration: none;
+    font-weight: bold;
+    display: none;
+  }
+  
+  .link:hover {
+    text-decoration: underline;
+  }

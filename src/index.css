@@ -1,0 +1,11 @@
+/* styles.css */
+.link {
+    color: purple !important;
+    text-decoration: none !important;
+    font-weight: bold !important;
+    display: none;
+  }
+  
+  .link:hover {
+    text-decoration: underline;
+  }
